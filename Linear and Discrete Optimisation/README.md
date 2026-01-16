@@ -10,6 +10,8 @@ This project tackles a variation of the Vehicle Routing Problem (VRP) using Line
 - **Files** :memo:
 
   - Excel: Designed for structural clarity and rapid solving times.
+     -  Download the file.
+     -  Requires *OpenSolver* add-in.
   - LP-Solve IDE: Demonstrates a rigorous understanding of linear algebra by replicating the Excel formulation using explicit linear equations.
 
 
