@@ -1,18 +1,7 @@
-# Statistical Machine Learning Final Projects :chart_with_upwards_trend:
+# Statistical Machine Learning Final Projects :abacus: 
 
-This project tackles a variation of the Vehicle Routing Problem (VRP) using Linear Programming. While the standard textbook solution required a two-step process with iterative human intervention, I developed a fully automated approach that optimizes both objective functions simultaneously via a trade-off mechanism.
+This module spans the full academic year and is divided into two distinct group projects.
 
-- **Key Highlights** :white_check_mark:
+**:fallen_leaf: Autumn Term:** An investigation into the statistical foundations of machine learning. Under the theme *"Advanced Methods in Unsupervised Learning"*, we focused on **Spectral Clustering** as it demonstrates key fundamentals applicable to other unsupervised algorithms.
 
-  - Automated Optimality: Unlike the reference solution, this model requires no manual intervention beyond the initial setup of locations and travel times.
-  - Pure LP Formulation: The model relies exclusively on linear programming techniques to ensure robust and globally optimal solutions.
-
-- **Files** :memo:
-
-  - Excel: Designed for structural clarity and rapid solving times.
-     -  Download the file "*cw-lost_bagagge_vrp.xlsx*".
-     -  Requires *OpenSolver* add-in.
-  - LP-Solve IDE: Demonstrates a rigorous understanding of linear algebra by replicating the Excel formulation using explicit linear equations.
-
-
-Grade: *Pending Release*
+**:seedling: Spring Term:** *In progress*
