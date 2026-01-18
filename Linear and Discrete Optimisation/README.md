@@ -10,7 +10,7 @@ This project tackles a variation of the Vehicle Routing Problem (VRP) using Line
 - :memo: **Files** 
 
   - Excel: Designed for structural clarity and rapid solving times.
-     -  Download the file "*cw-lost_bagagge_vrp.xlsx*".
+     -  Download the file `cw-lost_bagagge_vrp.xlsx`.
      -  Requires *OpenSolver* add-in.
   - LP-Solve IDE: Demonstrates a rigorous understanding of linear algebra by replicating the Excel formulation using explicit linear equations.
 
