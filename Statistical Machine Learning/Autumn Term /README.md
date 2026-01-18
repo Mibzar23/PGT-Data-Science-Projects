@@ -8,6 +8,8 @@ The investigation is divided into four key phases:
   3. The implementation of advanced methods to address complex, real-world data structures.
   4. Performance evaluation in a complex, near real-world scenario.
 
+**Grade obtained:** A
+
 ## :open_file_folder: Datasets & Resources
   - `clusteringToyData.csv`: the synthetic dataset used for initial examples and benchmarking.
   - `zipCode138.RData`: a dataset replicating a real-world clustering application.
